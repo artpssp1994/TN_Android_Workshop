@@ -36,14 +36,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="16dp"
+            android:textSize="16sp"
             android:text="FEATURING"
         />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="16dp"
+            android:textSize="16sp"
             android:textColor="#FFFF"
             android:text="ALAN WEISS"
         />
@@ -51,7 +51,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="16dp"
+            android:textSize="16sp"
             android:textColor="#FFFF"
             android:text="FAST COMPANY"
         />
@@ -59,7 +59,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="16dp"
+            android:textSize="16sp"
             android:textColor="#FFFF"
             android:text="BON APETTI"
             />
@@ -97,7 +97,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textSize="24dp"
+                    android:textSize="24sp"
                     android:layout_gravity="center_horizontal"
                     android:textColor="#FFFF"
                     android:text="World Best Stargazing Site"/>
@@ -111,7 +111,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColor="#FFFF"
                         android:text="National Geographic"/>
 
@@ -120,7 +120,7 @@
                         android:layout_height="wrap_content"
                         android:paddingLeft="6dp"
                         android:paddingTop="8dp"
-                        android:textSize="16dp"
+                        android:textSize="16sp"
                         android:textColor="#44FFFFFF"
 
                         android:text="3 mins"/>
